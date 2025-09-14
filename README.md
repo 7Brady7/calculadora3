@@ -1,0 +1,1 @@
+aqui vi la importancia de hacer los trabajos cooperativos porque a diferencia de hacerlo solo uno puede aprender uno de cada uno ademas del que trabajo se hace mas rapido y se encuentrar errores y hacer el trabajo de forma eficaz en este caso lo hize solo para aprender a subir archivos a github y el proyecto no me salio nada bien
