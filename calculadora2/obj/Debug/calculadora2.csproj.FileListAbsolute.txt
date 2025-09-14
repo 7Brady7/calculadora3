@@ -1,0 +1,11 @@
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\bin\Debug\calculadora2.exe.config
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\bin\Debug\calculadora2.exe
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\bin\Debug\calculadora2.pdb
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.AssemblyReference.cache
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.Form1.resources
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.Properties.Resources.resources
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.GenerateResource.cache
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.CoreCompileInputs.cache
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.exe
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.pdb
+D:\Tareas\teoria\tarea 3\calculadora2\calculadora2\obj\Debug\calculadora2.exe.config
